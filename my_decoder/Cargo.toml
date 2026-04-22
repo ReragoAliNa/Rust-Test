@@ -1,0 +1,16 @@
+[package]
+name = "my_decoder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+riscv = "0.10.1"
+riscv-rt = "0.11.0"
+panic-halt = "0.2.0"
+riscv-semihosting = "0.1.1"
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"

@@ -1,0 +1,4 @@
+cargo:rerun-if-changed=bin/riscv32imc-unknown-none-elf.a
+cargo:rustc-link-lib=static=riscv-rt
+cargo:rustc-link-search=C:\Users\33587\Desktop\Rust-Test\my_decoder\target\riscv32imac-unknown-none-elf\debug\build\riscv-rt-4d02e03131411cef\out
+cargo:rerun-if-changed=link.x

@@ -1,0 +1,8 @@
+cargo:rustc-cfg=riscv
+cargo:rustc-cfg=riscv32
+cargo:rustc-link-search=C:\Users\33587\Desktop\Rust-Test\my_decoder\target\riscv32imac-unknown-none-elf\debug\build\riscv-rt-c7695db0baa3d8d8\out
+cargo:rerun-if-changed=link.x
+cargo:rustc-cfg=riscvc
+cargo:rustc-cfg=riscva
+cargo:rustc-cfg=riscvi
+cargo:rustc-cfg=riscvm

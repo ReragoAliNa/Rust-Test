@@ -1,0 +1,1 @@
+C:\Users\33587\Desktop\Rust-Test\my_decoder\target\riscv32imac-unknown-none-elf\debug\my_decoder: C:\Users\33587\Desktop\Rust-Test\my_decoder\build.rs C:\Users\33587\Desktop\Rust-Test\my_decoder\memory.x C:\Users\33587\Desktop\Rust-Test\my_decoder\src\main.rs C:\Users\33587\Desktop\Rust-Test\my_decoder\src\math_model.rs

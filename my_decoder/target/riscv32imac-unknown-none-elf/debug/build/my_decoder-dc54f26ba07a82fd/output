@@ -1,0 +1,3 @@
+cargo:warning=Running build.rs
+cargo:rustc-link-search=C:\Users\33587\Desktop\Rust-Test\my_decoder\target\riscv32imac-unknown-none-elf\debug\build\my_decoder-dc54f26ba07a82fd\out
+cargo:rerun-if-changed=memory.x
