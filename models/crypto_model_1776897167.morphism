@@ -1,0 +1,521 @@
+{
+  "nodes": [
+    {
+      "id": "a",
+      "name": "Symbol: A",
+      "p": 0.4,
+      "isLeaf": true,
+      "__indexColor": "#ec0001",
+      "index": 0,
+      "x": 91.19846631682594,
+      "y": -80,
+      "vx": -4.5017295613921564e-13,
+      "vy": 0,
+      "fy": -80
+    },
+    {
+      "id": "b",
+      "name": "Symbol: B",
+      "p": 0.2,
+      "isLeaf": true,
+      "__indexColor": "#d80002",
+      "index": 1,
+      "x": -260.73248908349245,
+      "y": 80,
+      "vx": -4.1170663172236637e-13,
+      "vy": 0,
+      "fy": 80
+    },
+    {
+      "id": "c",
+      "name": "Symbol: C",
+      "p": 0.15,
+      "isLeaf": true,
+      "__indexColor": "#c40003",
+      "index": 2,
+      "x": -14.917132545287629,
+      "y": 80,
+      "vx": -3.8284763315192655e-13,
+      "vy": 0,
+      "fy": 80
+    },
+    {
+      "id": "d",
+      "name": "Symbol: D",
+      "p": 0.1,
+      "isLeaf": true,
+      "__indexColor": "#b00004",
+      "index": 3,
+      "x": 294.59536894004543,
+      "y": 160,
+      "vx": -3.4444637898334235e-13,
+      "vy": 0,
+      "fy": 160
+    },
+    {
+      "id": "e",
+      "name": "Symbol: E",
+      "p": 0.1,
+      "isLeaf": true,
+      "__indexColor": "#9c0005",
+      "index": 4,
+      "x": -210.73248908349245,
+      "y": 80,
+      "vx": -3.984635059547641e-13,
+      "vy": 0,
+      "fy": 80
+    },
+    {
+      "id": "f",
+      "name": "Symbol: F",
+      "p": 0.05,
+      "isLeaf": true,
+      "__indexColor": "#880006",
+      "index": 5,
+      "x": 362.1989346631754,
+      "y": 160,
+      "vx": -3.244588636312262e-13,
+      "vy": 0,
+      "fy": 160
+    },
+    {
+      "id": "n1",
+      "name": "N1",
+      "p": 0.15000000000000002,
+      "isLeaf": false,
+      "__indexColor": "#740007",
+      "index": 6,
+      "x": 175.5639108538018,
+      "y": 80,
+      "vx": -3.103068031968903e-13,
+      "vy": 0,
+      "fy": 80
+    },
+    {
+      "id": "n2",
+      "name": "N2",
+      "p": 0.25,
+      "isLeaf": false,
+      "__indexColor": "#600008",
+      "index": 7,
+      "x": -137.69547006101476,
+      "y": 0,
+      "vx": -3.757316376457656e-13,
+      "vy": 0,
+      "fy": 0
+    },
+    {
+      "id": "n3",
+      "name": "N3",
+      "p": 0.35000000000000003,
+      "isLeaf": false,
+      "__indexColor": "#4c0009",
+      "index": 8,
+      "x": -32.782850405741094,
+      "y": 0,
+      "vx": -3.4494151583144534e-13,
+      "vy": 0,
+      "fy": 0
+    },
+    {
+      "id": "n4",
+      "name": "N4",
+      "p": 0.6000000000000001,
+      "isLeaf": false,
+      "__indexColor": "#38000a",
+      "index": 9,
+      "x": -201.33360049614072,
+      "y": -80,
+      "vx": -4.179411133206423e-13,
+      "vy": 0,
+      "fy": -80
+    },
+    {
+      "id": "root",
+      "name": "Root",
+      "p": 1,
+      "isLeaf": false,
+      "__indexColor": "#24000b",
+      "index": 10,
+      "x": -65.36264909868365,
+      "y": -160,
+      "vx": -4.4789028886555007e-13,
+      "vy": 0,
+      "fy": -160
+    }
+  ],
+  "links": [
+    {
+      "source": {
+        "id": "n1",
+        "name": "N1",
+        "p": 0.15000000000000002,
+        "isLeaf": false,
+        "__indexColor": "#740007",
+        "index": 6,
+        "x": 175.5639108538018,
+        "y": 80,
+        "vx": -3.103068031968903e-13,
+        "vy": 0,
+        "fy": 80
+      },
+      "target": {
+        "id": "f",
+        "name": "Symbol: F",
+        "p": 0.05,
+        "isLeaf": true,
+        "__indexColor": "#880006",
+        "index": 5,
+        "x": 362.1989346631754,
+        "y": 160,
+        "vx": -3.244588636312262e-13,
+        "vy": 0,
+        "fy": 160
+      },
+      "bit": 0,
+      "__indexColor": "#10000c",
+      "__photons": [
+        {
+          "__progressRatio": 0.6660000000000005
+        }
+      ],
+      "__controlPoints": null,
+      "index": 0
+    },
+    {
+      "source": {
+        "id": "n1",
+        "name": "N1",
+        "p": 0.15000000000000002,
+        "isLeaf": false,
+        "__indexColor": "#740007",
+        "index": 6,
+        "x": 175.5639108538018,
+        "y": 80,
+        "vx": -3.103068031968903e-13,
+        "vy": 0,
+        "fy": 80
+      },
+      "target": {
+        "id": "d",
+        "name": "Symbol: D",
+        "p": 0.1,
+        "isLeaf": true,
+        "__indexColor": "#b00004",
+        "index": 3,
+        "x": 294.59536894004543,
+        "y": 160,
+        "vx": -3.4444637898334235e-13,
+        "vy": 0,
+        "fy": 160
+      },
+      "bit": 1,
+      "__indexColor": "#fc000d",
+      "__photons": [
+        {
+          "__progressRatio": 0.6660000000000005
+        }
+      ],
+      "__controlPoints": null,
+      "index": 1
+    },
+    {
+      "source": {
+        "id": "n2",
+        "name": "N2",
+        "p": 0.25,
+        "isLeaf": false,
+        "__indexColor": "#600008",
+        "index": 7,
+        "x": -137.69547006101476,
+        "y": 0,
+        "vx": -3.757316376457656e-13,
+        "vy": 0,
+        "fy": 0
+      },
+      "target": {
+        "id": "e",
+        "name": "Symbol: E",
+        "p": 0.1,
+        "isLeaf": true,
+        "__indexColor": "#9c0005",
+        "index": 4,
+        "x": -210.73248908349245,
+        "y": 80,
+        "vx": -3.984635059547641e-13,
+        "vy": 0,
+        "fy": 80
+      },
+      "bit": 0,
+      "__indexColor": "#e8000e",
+      "__photons": [
+        {
+          "__progressRatio": 0.6660000000000005
+        }
+      ],
+      "__controlPoints": null,
+      "index": 2
+    },
+    {
+      "source": {
+        "id": "n2",
+        "name": "N2",
+        "p": 0.25,
+        "isLeaf": false,
+        "__indexColor": "#600008",
+        "index": 7,
+        "x": -137.69547006101476,
+        "y": 0,
+        "vx": -3.757316376457656e-13,
+        "vy": 0,
+        "fy": 0
+      },
+      "target": {
+        "id": "c",
+        "name": "Symbol: C",
+        "p": 0.15,
+        "isLeaf": true,
+        "__indexColor": "#c40003",
+        "index": 2,
+        "x": -14.917132545287629,
+        "y": 80,
+        "vx": -3.8284763315192655e-13,
+        "vy": 0,
+        "fy": 80
+      },
+      "bit": 1,
+      "__indexColor": "#d4000f",
+      "__photons": [
+        {
+          "__progressRatio": 0.6660000000000005
+        }
+      ],
+      "__controlPoints": null,
+      "index": 3
+    },
+    {
+      "source": {
+        "id": "n3",
+        "name": "N3",
+        "p": 0.35000000000000003,
+        "isLeaf": false,
+        "__indexColor": "#4c0009",
+        "index": 8,
+        "x": -32.782850405741094,
+        "y": 0,
+        "vx": -3.4494151583144534e-13,
+        "vy": 0,
+        "fy": 0
+      },
+      "target": {
+        "id": "n1",
+        "name": "N1",
+        "p": 0.15000000000000002,
+        "isLeaf": false,
+        "__indexColor": "#740007",
+        "index": 6,
+        "x": 175.5639108538018,
+        "y": 80,
+        "vx": -3.103068031968903e-13,
+        "vy": 0,
+        "fy": 80
+      },
+      "bit": 0,
+      "__indexColor": "#c00010",
+      "__photons": [
+        {
+          "__progressRatio": 0.6660000000000005
+        }
+      ],
+      "__controlPoints": null,
+      "index": 4
+    },
+    {
+      "source": {
+        "id": "n3",
+        "name": "N3",
+        "p": 0.35000000000000003,
+        "isLeaf": false,
+        "__indexColor": "#4c0009",
+        "index": 8,
+        "x": -32.782850405741094,
+        "y": 0,
+        "vx": -3.4494151583144534e-13,
+        "vy": 0,
+        "fy": 0
+      },
+      "target": {
+        "id": "b",
+        "name": "Symbol: B",
+        "p": 0.2,
+        "isLeaf": true,
+        "__indexColor": "#d80002",
+        "index": 1,
+        "x": -260.73248908349245,
+        "y": 80,
+        "vx": -4.1170663172236637e-13,
+        "vy": 0,
+        "fy": 80
+      },
+      "bit": 1,
+      "__indexColor": "#ac0011",
+      "__photons": [
+        {
+          "__progressRatio": 0.6660000000000005
+        }
+      ],
+      "__controlPoints": null,
+      "index": 5
+    },
+    {
+      "source": {
+        "id": "n4",
+        "name": "N4",
+        "p": 0.6000000000000001,
+        "isLeaf": false,
+        "__indexColor": "#38000a",
+        "index": 9,
+        "x": -201.33360049614072,
+        "y": -80,
+        "vx": -4.179411133206423e-13,
+        "vy": 0,
+        "fy": -80
+      },
+      "target": {
+        "id": "n2",
+        "name": "N2",
+        "p": 0.25,
+        "isLeaf": false,
+        "__indexColor": "#600008",
+        "index": 7,
+        "x": -137.69547006101476,
+        "y": 0,
+        "vx": -3.757316376457656e-13,
+        "vy": 0,
+        "fy": 0
+      },
+      "bit": 0,
+      "__indexColor": "#980012",
+      "__photons": [
+        {
+          "__progressRatio": 0.6660000000000005
+        }
+      ],
+      "__controlPoints": null,
+      "index": 6
+    },
+    {
+      "source": {
+        "id": "n4",
+        "name": "N4",
+        "p": 0.6000000000000001,
+        "isLeaf": false,
+        "__indexColor": "#38000a",
+        "index": 9,
+        "x": -201.33360049614072,
+        "y": -80,
+        "vx": -4.179411133206423e-13,
+        "vy": 0,
+        "fy": -80
+      },
+      "target": {
+        "id": "n3",
+        "name": "N3",
+        "p": 0.35000000000000003,
+        "isLeaf": false,
+        "__indexColor": "#4c0009",
+        "index": 8,
+        "x": -32.782850405741094,
+        "y": 0,
+        "vx": -3.4494151583144534e-13,
+        "vy": 0,
+        "fy": 0
+      },
+      "bit": 1,
+      "__indexColor": "#840013",
+      "__photons": [
+        {
+          "__progressRatio": 0.6660000000000005
+        }
+      ],
+      "__controlPoints": null,
+      "index": 7
+    },
+    {
+      "source": {
+        "id": "root",
+        "name": "Root",
+        "p": 1,
+        "isLeaf": false,
+        "__indexColor": "#24000b",
+        "index": 10,
+        "x": -65.36264909868365,
+        "y": -160,
+        "vx": -4.4789028886555007e-13,
+        "vy": 0,
+        "fy": -160
+      },
+      "target": {
+        "id": "a",
+        "name": "Symbol: A",
+        "p": 0.4,
+        "isLeaf": true,
+        "__indexColor": "#ec0001",
+        "index": 0,
+        "x": 91.19846631682594,
+        "y": -80,
+        "vx": -4.5017295613921564e-13,
+        "vy": 0,
+        "fy": -80
+      },
+      "bit": 0,
+      "__indexColor": "#700014",
+      "__photons": [
+        {
+          "__progressRatio": 0.6660000000000005
+        }
+      ],
+      "__controlPoints": null,
+      "index": 8
+    },
+    {
+      "source": {
+        "id": "root",
+        "name": "Root",
+        "p": 1,
+        "isLeaf": false,
+        "__indexColor": "#24000b",
+        "index": 10,
+        "x": -65.36264909868365,
+        "y": -160,
+        "vx": -4.4789028886555007e-13,
+        "vy": 0,
+        "fy": -160
+      },
+      "target": {
+        "id": "n4",
+        "name": "N4",
+        "p": 0.6000000000000001,
+        "isLeaf": false,
+        "__indexColor": "#38000a",
+        "index": 9,
+        "x": -201.33360049614072,
+        "y": -80,
+        "vx": -4.179411133206423e-13,
+        "vy": 0,
+        "fy": -80
+      },
+      "bit": 1,
+      "__indexColor": "#5c0015",
+      "__photons": [
+        {
+          "__progressRatio": 0.6660000000000005
+        }
+      ],
+      "__controlPoints": null,
+      "index": 9
+    }
+  ],
+  "layoutMode": "dag",
+  "engineName": "WASM Huffman Engine"
+}
